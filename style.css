@@ -21,7 +21,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("logo1.jpg");
+    background-image: url("assets/logo1.jpg");
     background-size: cover;
     height: 40px;
     width: 100%;
@@ -138,7 +138,7 @@ span{
 
 /* hero section */
 .hero-sec{
-    background-image: url("image4.jpg");
+    background-image: url("assets/image4.jpg");
     background-size: cover;
     height: 600px;
     display: flex;
@@ -200,7 +200,7 @@ span{
 
 }
 .box1{
-    background-image: url("phone.jpg");
+    background-image: url("assets/phone.jpg");
     background-size: cover;
   
 }
@@ -209,12 +209,12 @@ span{
 
 }
 .box1{
-    background-image: url("phone.jpg");
+    background-image: url("assets/phone.jpg");
     background-size: cover;
   
 }
 .box2{
-    background-image: url("dress.jpg");
+    background-image: url("assets/dress.jpg");
     background-size: cover;
     
     
@@ -222,43 +222,43 @@ span{
 }
 
 .box3{
-    background-image: url("saree.jpg");
+    background-image: url("assets/saree.jpg");
     background-size: cover;
     
   
 }
 .box4{
-    background-image: url("shirt1.jpg");
+    background-image: url("assets/shirt.jpg");
     background-size: cover;
     
   
 }
 .box5{
-    background-image: url("nike.jpg");
+    background-image: url("assets/nike.jpg");
     background-size: cover;
     
   
 }
 .box6{
-    background-image: url("cookie1.jpg");
+    background-image: url("assets/cookie1.jpg");
     background-size: cover;
     
   
 }
 .box7{
-    background-image: url("head3.jpg");
+    background-image: url("assets/head3.jpg");
     background-size: cover;
     
   
 }
 .box8{
-    background-image: url("watch1.jpg");
+    background-image: url("assets/watch1.jpg");
     background-size: cover;
     
   
 }
 .box9{
-    background-image: url("books2.jpg");
+    background-image: url("assets/books2.jpg");
     background-size: cover;
     
   
